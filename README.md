@@ -1,5 +1,5 @@
 # mainWinClass
-##소스코드 설명
+##소스코드 설명##
 
 1. mainWindow 만들기
 2. Class 단위로 만들기
